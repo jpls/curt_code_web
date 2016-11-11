@@ -1,3 +1,6 @@
+Configuration testing : 
+Apache Version	Apache/2.4.2 (Win32) PHP/5.4.4
+
 -	It is a web application that generate the first 1000 prime numbers beginning with 2. 
 <br/>
 The application generate an array of primes in PHP language and respond as a web service to a call from the client-side AJAX request.
